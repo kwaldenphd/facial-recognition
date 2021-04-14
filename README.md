@@ -62,6 +62,13 @@ Affectiva
 
 Or another product/company mentioned in the Gender Shades article.
 
+## Benchmark Datasets
+
+- [MegaFace](http://megaface.cs.washington.edu/)
+- [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
+- [IJB (A,B,C)](https://www.nist.gov/programs-projects/face-challenges)
+- [Adience[(https://talhassner.github.io/home/projects/Adience/Adience-data.html)
+
 # Prompt 2: Exploring the Gender Shades Lit Review
 
 The Gender Shades authors reference a wide range of prior work that relates to their study.
@@ -76,7 +83,7 @@ Questions to consider:
 - What conclusions do the authors draw from their analysis?
 - Other questions/comments/etc
 
-## Building On:
+## Building On
 
 Citron, Danielle Keats and Pasquale, Frank A., The Scored Society: Due Process for Automated Predictions (2014). Washington Law Review, Vol. 89, 2014, p. 1-, U of Maryland Legal Studies Research Paper No. 2014-8, Available at SSRN: https://ssrn.com/abstract=2376209 
 
@@ -104,6 +111,9 @@ Wang Y, Kosinski M. Deep neural networks are more accurate than humans at detect
 
 Article that critiques this work:
 - Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov, ["Physiognomy's New Clothes"](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) *Medium blog* (6 May 2017)
+- Blaise Agüera y Arcas, Alexander Todorov and Margaret Mitchell, ["Do algorithms reveal sexual orientation or just expose our stereotypes?"](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477) *Medium blog post* (11 January 2018)
+
+Farinella, G, and J Dugelay. “Demographic Classification: Do Gender and Ethnicity Affect Each Other?” In 2012 International Conference on Informatics, Electronics & Vision (ICIEV), 383–90. IEEE, 2012. https://doi.org/10.1109/ICIEV.2012.6317383. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_ieee_s6317383)
 
 ## Emotion Detection
 
@@ -117,10 +127,7 @@ Benitez-Quiroz, C. Fabian, Ramprakash Srinivasan, and Aleix M Martinez. “Emoti
 
 Leo, M, Del Coco, Carcagni, Distante, Bernava, Pioggia, and Palestra. “Automatic Emotion Recognition in Robot-Children Interaction for ASD Treatment.” In 2015 IEEE International Conference on Computer Vision Workshop (ICCVW), 2015:537–45. IEEE, 2015. https://doi.org/10.1109/ICCVW.2015.76. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_ieee_s7406425)
 
-Palestra, Giuseppe, Giovanna Varni, Mohamed Chetouani, and Floriana Esposito. “A Multimodal and Multilevel System for Robotics Treatment of Autism in Children.” In Proceedings of the International Workshop on Social Learning and Multimodal Interaction for Designing Artificial Agents, 1–6. ACM, 2016. https://doi.org/10.1145/3005338.3005341. [Link to online access throug Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_acm3005341)
-
-
-          
+Palestra, Giuseppe, Giovanna Varni, Mohamed Chetouani, and Floriana Esposito. “A Multimodal and Multilevel System for Robotics Treatment of Autism in Children.” In Proceedings of the International Workshop on Social Learning and Multimodal Interaction for Designing Artificial Agents, 1–6. ACM, 2016. https://doi.org/10.1145/3005338.3005341. [Link to online access throug Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_acm3005341)      
 
 # Prompt 3: System Audits
 
@@ -261,3 +268,15 @@ Background:
 - Johana Bhuiyan, ["Clearview AI uses your online photos to instantly ID you. That's a problem, lawsuit says"](https://www.latimes.com/business/technology/story/2021-03-09/clearview-ai-lawsuit-privacy-violations) *Los Angeles Times* (9 March 2021)
 
 - [Legal filing](https://justfutureslaw.org/wp-content/uploads/2021/03/2021-03-09-Complaint-vs-Clearview.pdf)
+
+# Hands-On Work With Face Detection
+
+- Kristijan Ivancic, ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python*
+- Shantnu Tiwari, ["Face Recognition With Python"](https://realpython.com/face-recognition-with-python/)
+- Adrian Rosebrock, ["Face recognition with OpenCV, Python, and deep learning"](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) *PyImageSearch* (18 June 2018)
+- Marcelo Rovai, ["Real-Time Face Recognition: An End-To-End Project"](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348) *Towards Data Science* (12 March 2018)
+- Parul Pandey, ["Face Detection With Python using OpenCV"](https://www.datacamp.com/community/tutorials/face-detection-python-opencv) *DataCamp* (20 December 2018)
+
+# Lab Notebook Components
+
+fka fjas fjdasf
