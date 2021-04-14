@@ -12,41 +12,127 @@ Georgetown Center for Privacy and Technology https://www.perpetuallineup.org/
 
 
 
-# Prompt 2: Tech Platform Deep Dive
+# Prompt 2: Tech Deep Dive
 
-Facial Recognition vendors/products:
+The Gender Shades article mentions a few types or big categories for facial recognition (face detection, classification, emotion detection, etc). Both of our readings for this week mention a number of specific systems.
 
-Rekognition (Amazon) https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazon-teams-government-deploy-dangerous-new
-
-Microsoft Azure Face https://azure.microsoft.com/en-us/services/cognitive-services/face/
-
-IBM Watson https://www.ibm.com/dk-en/cloud/watson-visual-recognition
-
-Clearview AI https://clearview.ai/
-
-Face++ https://www.faceplusplus.com/
+Select one of these categories or specific tech programs and see what you’re able to find about how the technology was developed, how it works, and where it’s used.
 
 
+## Types of Facial Recognition Technology
+
+Computer vision
+- [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
+
+Face detection
+- [Wikipedia](https://en.wikipedia.org/wiki/Face_detection)
+- [Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition)
+
+Face recognition/identification
+- [Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition)
+
+Emotion recognition
+- [Wikipedia page for Affectiva](https://en.wikipedia.org/wiki/Affectiva)
+
+Or another term/concept mentioned in the Gender Shades article.
+
+## Facial Recognition Products
+
+Rekognition (Amazon)
+- [Amazon](https://aws.amazon.com/rekognition/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Rekognition)
+
+Microsoft Azure Face 
+- [Microsoft](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
+- ["What is the Azure Face service?", Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview)
+
+IBM Watson 
+- [IBM](https://www.ibm.com/dk-en/cloud/watson-visual-recognition)
+
+Clearview AI
+- [Clearview AI](https://clearview.ai/)
+
+Face++
+- [Face++](https://www.faceplusplus.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Megvii)
+
+Affectiva
+- [Affectiva](https://www.affectiva.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Affectiva)
+
+Or another product/company mentioned in the Gender Shades article.
 
 # Prompt 2: Exploring the Gender Shades Lit Review
 
-Building On:
+The Gender Shades authors reference a wide range of prior work that relates to their study.
 
-Critiquing:
+Select one of the articles to read/explore.
+
+Questions to consider:
+- What do the Gender Shades authors say about this work? 
+- What stands out from reading the abstract?
+- What questions, topics, or issues were the authors looking out? 
+- What research methods or approaches did the authors use?
+- What conclusions do the authors draw from their analysis?
+- Other questions/comments/etc
+
+## Building On:
+
+Citron, Danielle Keats and Pasquale, Frank A., The Scored Society: Due Process for Automated Predictions (2014). Washington Law Review, Vol. 89, 2014, p. 1-, U of Maryland Legal Studies Research Paper No. 2014-8, Available at SSRN: https://ssrn.com/abstract=2376209 
+
+Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). Man is to computer programmer as woman is to homemaker? debiasing word embeddings. In Advances in neural information processing systems (pp. 4349-4357). URL: https://arxiv.org/abs/1607.06520
+
+Caliskan, Aylin, Joanna Bryson, and Arvind Narayanan. “Semantics Derived Automatically from Language Corpora Contain Human-Like Biases.” Science 356, no. 6334 (2017): 183–86. https://doi.org/10.1126/science.aal4230. [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_proquest1887393228)
+
+Kilbertus, Niki & Rojas-Carulla, Mateo & Parascandolo, Giambattista & Hardt, Moritz & Janzing, Dominik & Schölkopf, Bernhard. (2017). Avoiding Discrimination through Causal Reasoning. URL: https://arxiv.org/abs/1706.02744
+
+Hardt, Moritz & Price, Eric & Srebro, Nathan. (2016). Equality of Opportunity in Supervised Learning. In Advances in Neural Information Processing Systems, 3315-3323. URL: https://arxiv.org/abs/1610.02413. 
+
+Esteva, Andre, and Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau, and Sebastian Thrun. “Dermatologist-Level Classification of Skin Cancer with Deep Neural Networks.” Nature 542, no. 7639 (2017): 115–18. https://doi.org/10.1038/nature21056. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_nature_a10.1038/nature21056)
+
+Popejoy, Alice B, and Stephanie M Fullerton. “Genomics is failing on diversity.” Nature vol. 538,7624 (2016): 161-164. [doi:10.1038/538161a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089703/)
+
+Melloni, Chiara S., Jeffrey Y. Berger, Tracy J. Wang, Funda B. Gunes, Amanda Kristin Stebbins, Karen Pieper, Rowena Dolor, Pamela Douglas, Daniel Mark, and L Newby. “Representation of Women in Randomized Clinical Trials of Cardiovascular Disease Prevention.” Circulation: Cardiovascular Quality and Outcomes 3, no. 2 (2010): 135–42. [https://doi.org/10.1161/CIRCOUTCOMES.110.868307](https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.110.868307)
+
+Klare, Brendan F., Mark J. Burge, Joshua C. Klontz, Richard W. Vorder Bruegge, and Anil K. Jain. “Face Recognition Performance: Role of Demographic Information.” IEEE Transactions on Information Forensics and Security 7, no. 6 (2012): 1789–1801. https://doi.org/10.1109/TIFS.2012.2214212. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_crossref10.1109/TIFS.2012.2214212)
+
+## Critiquing
+
+Wu, Xiaolin & Zhang, Xi. (2016). Automated Inference on Criminality using Face Images. Preprint URL: https://arxiv.org/abs/1611.04135v1
+
+Wang Y, Kosinski M. Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. J Pers Soc Psychol. 2018 Feb;114(2):246-257. doi: 10.1037/pspa0000098. PMID: 29389215. Link to access: https://pubmed.ncbi.nlm.nih.gov/29389215/
+
+Article that critiques this work:
+- Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov, ["Physiognomy's New Clothes"](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) *Medium blog* (6 May 2017)
+
+## Emotion Detection
+
+Dehghan, Afshin, Enrique G. Ortiz, Guang Shu, and Syed Zain Masood. “DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network,” 2017. Preprint URL: https://arxiv.org/abs/1702.04280
+
+Srinivasan, R., J. D. Golomb, and A. M. Martinez. “A Neural Basis of Facial Action Recognition in Humans.” Journal of Neuroscience 36, no. 16 (2016): 4434–42. [https://doi.org/10.1523/JNEUROSCI.1704-15.2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837681/)
+
+Benitez-Quiroz, C. Fabian, Ramprakash Srinivasan, and Aleix M Martinez. “EmotioNet: An Accurate, Real-Time Algorithm for the Automatic Annotation of a Million Facial Expressions in the Wild.” In 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016:5562–70. IEEE, 2016. https://doi.org/10.1109/CVPR.2016.600. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_ieee_s7780969)
+
+### Autism Spectrum Work
+
+Leo, M, Del Coco, Carcagni, Distante, Bernava, Pioggia, and Palestra. “Automatic Emotion Recognition in Robot-Children Interaction for ASD Treatment.” In 2015 IEEE International Conference on Computer Vision Workshop (ICCVW), 2015:537–45. IEEE, 2015. https://doi.org/10.1109/ICCVW.2015.76. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_ieee_s7406425)
+
+Palestra, Giuseppe, Giovanna Varni, Mohamed Chetouani, and Floriana Esposito. “A Multimodal and Multilevel System for Robotics Treatment of Autism in Children.” In Proceedings of the International Workshop on Social Learning and Multimodal Interaction for Designing Artificial Agents, 1–6. ACM, 2016. https://doi.org/10.1145/3005338.3005341. [Link to online access throug Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_acm3005341)
+
+
+          
 
 # Prompt 3: System Audits
 
 The National Institute of Standards and Technology (NIST) has ongoing work with Face Recognition Vendor Test (FRVT) research.
-
-Learn more about NIST's ["Face Projects"](https://www.nist.gov/programs-projects/face-projects) research and initiatives.
-
-Learn more about NIST's ["FRVT"](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing) ongoing work, including additional technical documentation.
+- Learn more about NIST's ["Face Projects"](https://www.nist.gov/programs-projects/face-projects) research and initiatives.
+- Learn more about NIST's ["FRVT"](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing) ongoing work, including additional technical documentation.
 
 NIST has produced a number of technical whitepapers from the FRVT program.
 
-NISTIR 8271 ["FRVT Part 2: Identification"](https://doi.org/10.6028/NIST.IR.8271) (September 2019) builds on and expands NIST Interagency Report (NISTIR) 8238, which documents NIST's evalaution of facial recognition algorithms.
+- NISTIR 8271 ["FRVT Part 2: Identification"](https://doi.org/10.6028/NIST.IR.8271) (September 2019) builds on and expands NIST Interagency Report (NISTIR) 8238, which documents NIST's evalaution of facial recognition algorithms.
 
-You can also read the original NISTIR 8238 publication ["Ongoing FRVT Part 2: Identification"](https://doi.org/10.6028/NIST.IR.8238) (November 2018).
+- You can also read the original NISTIR 8238 publication ["Ongoing FRVT Part 2: Identification"](https://doi.org/10.6028/NIST.IR.8238) (November 2018).
 
 But, most recently, NIST released NISTIR 8280 ["FRVT Part 3: Demographic Effects"](https://doi.org/10.6028/NIST.IR.8280) (December 2019), which "describes and quantifies demographic differentials for contemporary face recognition algorithms. NIST has conducted tests to quantify demographic differences for nearly 200 face recognition algorithms from nearly 100 developers, using four collections of photographs with more than 18 million images of more than 8 million people. Using both one-to-one verification and one-to-many identification algorithms submitted to NIST, the report found empirical evidence for the existence of a wide range of accuracy across demographic differences in the majority of the current face recognition algorithms that were evaluated" (["New FRVT Demographic Effects Report"](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing)).
 
@@ -61,10 +147,9 @@ Questions to consider:
 - What conclusions do the authors draw from their analysis (of prior research, benchmark datasets, or commercial systems)?
 - Other questions/comments/etc
 
+# Prompt 4: Congressional Hearings and Federal Reports
 
-# Prompt 4: Lawsuits, Regulation, and Policy
-
-##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)\
+##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)
 
 In July 2012, The Senate Judiciary Committee Subcomittee on Privacy, Technology and the Law heled a hearing "What Facial Recognition Technology Means for Privacy and Civil Liberties." The hearing included testimony from Federal Bureau of Investigation, Federal Trade Commission, Facebook, MorphoTrust USA, Carnegie Mellon University, National Sheriffs' Association, and Duke University representatives.
 
@@ -108,50 +193,71 @@ Following the publication of NISTIR 8280 (see Prompt #3), Rep. Bennie G. Thompso
 
 # Lawsuits
 
-CNET overview article https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/
+CNET's Alfred Ng has a great overview of some of the legal challenges being posted to facial recognition technologies.
+- Alfred Ng, ["Facial recognition's fate could be decided in 2021"](https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021) *CNET* (11 December 2020)
+
+Additional resources for a few specific cases.
 
 ## Lynch v. Florida
 
-https://law.justia.com/cases/florida/first-district-court-of-appeal/2018/16-3290.html
+- [Justitia legal resources](https://law.justia.com/cases/florida/first-district-court-of-appeal/2018/16-3290.html)
 
-https://slate.com/technology/2019/01/facial-recognition-arrest-transparency-willie-allen-lynch.html
+- Aaron Mak, ["Facing Facts: A case in Florida demonstrates the problems with using facial recognition to identify suspects in low-stakes crimes"](https://slate.com/technology/2019/01/facial-recognition-arrest-transparency-willie-allen-lynch.html) *Slate* (25 January 2019)
 
-https://www.aclu.org/blog/privacy-technology/surveillance-technologies/florida-using-facial-recognition-convict-people
+- Somil Trivedi and Nathan Freed Wessler, ["Florida Is Using Facial Recognition to Convict People Without Giving Them a Chance to Challenge the Tech"](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/florida-using-facial-recognition-convict-people) *ACLU* (12 March 2019)
 
 ## Webster v. Hennepin County
 
-https://www.startribune.com/facial-recognition-technology-comes-out-of-the-shadows/382954891/
+- David Chanen, ["Facial recognition technology comes out of the shadows"](https://www.startribune.com/facial-recognition-technology-comes-out-of-the-shadows/382954891/) *Minnesota Star Tribune* (14 June 2016)
 
-https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric
+- Aaron Mackey, ["EFF To Minneosta Supreme Court: Sheriff Must Release Emails Documenting Biometric Technology Use"](https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric) *Electronic Frontier Foundation* (17 July 2017)
 
-https://www.aclu-mn.org/en/cases/webster-v-hennepin-county
+- Libor Jany, ["Police use of facial recognition technology soars in Minnesota"](https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric) *Minnesota Star Tribune* (4 December 2020)
 
-https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/
+- ACLU Minnesota, ["Webster v. Hennepin County"](https://www.aclu-mn.org/en/cases/webster-v-hennepin-county) *ACLU Minnesota*
 
 ## Williams v. Detroit Police Department
 
-https://www.aclumich.org/en/press-releases/farmington-hills-father-sues-detroit-police-department-wrongful-arrest-based-faulty
+- ACLU Michigan, ["Farmington Hills Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"](https://www.aclumich.org/en/press-releases/farmington-hills-father-sues-detroit-police-department-wrongful-arrest-based-faulty) *ACLU Michigan* (13 April 2021)
 
-https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/
+- Tate Ryan-Mosley, ["The new lawsuit that shows facial recognition is officially a civil rights issue"](https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police) *MIT Technology Review* (14 April 2021)
 
-https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/
+- Drew Harwell, ["Wrongfully arrested man sues Detroit police over false facial recognition match"](https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit) *Washington Post* (13 April 2021)
 
-ACLU video https://youtu.be/Tfgi9A9PfLU
 
 ## All the Clearview AI Lawsuits
 
-NYT piece on Clearview https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html?
+Clearview AI is facing a number of lawsuits related to its facial recognition technology and partnerships with law enforcement.
+
+For more background on Clearview AI:
+- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, ["Kashmir Hill, "Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations"](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) *BuzzFeed News* (6 April 2021).
+- New York Times reporter Kashmir Hill has been reporting on Clearview AI and facial recognition tech for over a year. [Link to an archive of her work in the Times](https://www.nytimes.com/by/kashmir-hill).
+
+A few specific lawsuits.
 
 ### Vermont Attorney General (March 2020)
 
-https://ago.vermont.gov/blog/2020/03/10/attorney-general-donovan-sues-clearview-ai-for-violations-of-consumer-protection-act-and-data-broker-law/
+- Office of the Vermont Attorney General, ["Attorney General Donovan Sues Clearview AI for Violations of Consumer Protection Act and Data Broker Law"](https://ago.vermont.gov/blog/2020/03/10/attorney-general-donovan-sues-clearview-ai-for-violations-of-consumer-protection-act-and-data-broker-law) *Office of the Vermont Attorney General* (10 March 2020)
 
-### ACLU v. Clearview AI 
+- Office of the Vermont Attorney General, ["Attorney General Wins Significant Victory in Clearview AI Lawsuit"](https://ago.vermont.gov/blog/2020/09/11/attorney-general-wins-significant-victory-in-clearview-ai-lawsuit/) *Office of the Vermont Attorney General* (11 September 2020)
 
-https://www.aclu.org/legal-document/aclu-v-clearview-ai-complaint
+### ACLU v. Clearview AI (May 2020)
 
-### Mutnick v. Clearview AI Class Action
+- Ryan Mac and Caroline Haskins, ["The ACLU Is Suing Clearview AI to Stop 'Privacy-Destroying Face Surveillance'"](https://www.buzzfeednews.com/article/ryanmac/aclu-suing-clearview-ai-privacy-destroying-surveillance) *BuzzFeed News* (28 May 2020)
 
-https://law.justia.com/cases/federal/district-courts/illinois/ilndce/1:2020cv00512/372790/86/
+- ACLU, ["ACLU v. Clearview AI- Complaint"](https://www.aclu.org/legal-document/aclu-v-clearview-ai-complaint) *ACLU* (25 September 2020)
 
-https://www.scribd.com/document/444154093/gov-uscourts-ilnd-372790-1-0
+### Mutnick v. Clearview AI Class Action (August 2020)
+
+- Legal filings in Mutnick v. Clearview AI (August 2020)
+  * [Justitia](https://law.justia.com/cases/federal/district-courts/illinois/ilndce/1:2020cv00512/372790/86/)
+  * [Additional filings on Scribd](https://www.scribd.com/document/444154093/gov-uscourts-ilnd-372790-1-0)
+
+### Mijente and NorCal Resist Immigrants Rights Groups (March 2021)
+
+Background:
+- Irina Ivanova, ["Immigrant Rights Groups Sue Facial-Recognition Company Clearview AI"](https://www.cbsnews.com/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/) *CBS News* (9 March 2021)
+- Rachel Metz, ["Clearview AI sued in California by immigrant rights groups, activists"](https://www.cnn.com/2021/03/09/tech/clearview-ai-mijente-lawsuit/index.html) *CNN Business* (9 March 2021)
+- Johana Bhuiyan, ["Clearview AI uses your online photos to instantly ID you. That's a problem, lawsuit says"](https://www.latimes.com/business/technology/story/2021-03-09/clearview-ai-lawsuit-privacy-violations) *Los Angeles Times* (9 March 2021)
+
+- [Legal filing](https://justfutureslaw.org/wp-content/uploads/2021/03/2021-03-09-Complaint-vs-Clearview.pdf)
