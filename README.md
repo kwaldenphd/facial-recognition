@@ -51,7 +51,8 @@ In 2016, Georgetown University Law School's Center on Privacy and Technology res
 ["The Perpetual Lineup: Unregulated Police Face Recognition in America"](https://www.perpetuallineup.org/) emphasizes the number of open questions around law enforcement use of facial recognition technology.
 
 <blockquote>"We know very little about these systems. We don’t know how they impact privacy and civil liberties. We don’t know how they address accuracy problems. And we don’t know how any of these systems—local, state, or federal—affect racial and ethnic minorities.
-<br>
+&nbsp;
+&nbsp;
 "This report closes these gaps. The result of a year-long investigation and over 100 records requests to police departments around the country, it is the most comprehensive survey to date of law enforcement face recognition and the risks that it poses to privacy, civil liberties, and civil rights. Combining FBI data with new information we obtained about state and local systems, we find that law enforcement face recognition affects over 117 million American adults. It is also unregulated. A few agencies have instituted meaningful protections to prevent the misuse of the technology. In many more cases, it is out of control."</blockquote>
 
 Spend some time looking through the report. Start with the Executive Summary, but dig into the report's analysis and recommendations sections.
@@ -201,7 +202,7 @@ Questions to consider:
 
 In July 2012, The Senate Judiciary Committee Subcomittee on Privacy, Technology and the Law heled a hearing "What Facial Recognition Technology Means for Privacy and Civil Liberties." The hearing included testimony from Federal Bureau of Investigation, Federal Trade Commission, Facebook, MorphoTrust USA, Carnegie Mellon University, National Sheriffs' Association, and Duke University representatives.
 
-[Link to hearing homepage (includes testimony transcripts and hearing video)](https://www.judiciary.senate.gov/meetings/what-facial-recognition-technology-means-for-privacy-and-civil-liberties)
+- [Link to hearing homepage (includes testimony transcripts and hearing video)](https://www.judiciary.senate.gov/meetings/what-facial-recognition-technology-means-for-privacy-and-civil-liberties)
 
 ## Federal Bureau of Investigation Privacy Impact Assessment (May 2015)
 
@@ -209,7 +210,7 @@ In May 2015, the FBI issued an internal study, "Privacy Impact Assessment for th
 
 The report was made public via Freedom of Information/Privacy Act request.
 
-[Link to report](https://www.fbi.gov/services/information-management/foipa/privacy-impact-assessments/facial-analysis-comparison-and-evaluation-face-services-unit)
+- [Link to report](https://www.fbi.gov/services/information-management/foipa/privacy-impact-assessments/facial-analysis-comparison-and-evaluation-face-services-unit)
 
 ## Updated FBI Privacy Impact Assessment (July 2018)
 
@@ -217,25 +218,25 @@ The FBI released an update to the May 2015 report in July 2018.
 
 The report was made public via Freedom of Information/Privacy Act request.
 
-[Link to report](https://www.fbi.gov/file-repository/pia-face-phase-2-system.pdf/view)
+- [Link to report](https://www.fbi.gov/file-repository/pia-face-phase-2-system.pdf/view)
 
 ## United States Government Accountability Office Report (May 2016)
 
 In May 2016, the United States Government Accountability Office published GAO-16-267, a report titled "Face Recognition Technology: FBI Should Better Ensure Privacy and Accuracy." The report was addressed to then Sen. Al Franken, who was at the time the Ranking Member of the Subcommittee on Privacy, Technology and the Law, part of the Senate Judiciary Committee.
 
-[Link to full report](https://www.gao.gov/products/gao-16-267)
+- [Link to full report](https://www.gao.gov/products/gao-16-267)
 
 ## U.S. GAO-19-579T Report (June 2019)
 
 The GAO released a follow-up report to GAO-16-267 in June 2019. That report, titled "Face Recognition Technology: DOJ and FBI Have Taken Some Actions in Response to GAO Recommendations to Ensure Privacy and Accuracy, But Additional Work Remains." The report was addressed to members of the House Committee on Oversight and Reform.
 
-[Link to full report](https://www.gao.gov/products/gao-19-579t)
+- [Link to full report](https://www.gao.gov/products/gao-19-579t)
 
 ## Committee on Homeland Security "About Face" Hearing (July 2019)
 
 In 2019, the House Committee on Homeland Security convened a hearing titled "About Face: Examining the Department of Homeland Security’s Use of Facial Recognition and Other Biometric Technologies." The hearing included testimony from U.S. Customs and Border Protection, U.S. Department of Homeland Security, U.S. Secret Service, Transportation Security Administration, and National Institute of Standards and Technology (U.S. Department of Commerce) representatives.
 
-[Link to hearing homepage (includes testimony transcripts and hearing video)](https://homeland.house.gov/activities/hearings/about-face-examining-the-department-of-homeland-securitys-use-of-facial-recognition-and-other-biometric-technologies)
+- [Link to hearing homepage (includes testimony transcripts and hearing video)](https://homeland.house.gov/activities/hearings/about-face-examining-the-department-of-homeland-securitys-use-of-facial-recognition-and-other-biometric-technologies)
 
 Following the publication of NISTIR 8280 (see Prompt #3), Rep. Bennie G. Thompson (D-MS), Chairman of the Committee on Homeland Security, [wrote a public letter](https://homeland.house.gov/news/correspondence/chairman-thompson-writes-dhs-on-shocking-facial-recognition-report) to then Acting Homeland Security Secretary Chad Wolf regarding the discrepencies between the NIST report and the testimony provided by DHS.  
 
