@@ -51,7 +51,7 @@ In 2016, Georgetown University Law School's Center on Privacy and Technology res
 ["The Perpetual Lineup: Unregulated Police Face Recognition in America"](https://www.perpetuallineup.org/) emphasizes the number of open questions around law enforcement use of facial recognition technology.
 
 <blockquote>"We know very little about these systems. We don’t know how they impact privacy and civil liberties. We don’t know how they address accuracy problems. And we don’t know how any of these systems—local, state, or federal—affect racial and ethnic minorities.
-
+<br>
 "This report closes these gaps. The result of a year-long investigation and over 100 records requests to police departments around the country, it is the most comprehensive survey to date of law enforcement face recognition and the risks that it poses to privacy, civil liberties, and civil rights. Combining FBI data with new information we obtained about state and local systems, we find that law enforcement face recognition affects over 117 million American adults. It is also unregulated. A few agencies have instituted meaningful protections to prevent the misuse of the technology. In many more cases, it is out of control."</blockquote>
 
 Spend some time looking through the report. Start with the Executive Summary, but dig into the report's analysis and recommendations sections.
