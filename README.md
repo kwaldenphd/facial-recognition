@@ -1,6 +1,42 @@
 # Facial Recognition and Biometric Identification Lab
 
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 # Table of Contents
+
+- [Overview](#overview)
+- [Prompt 1: Further Background Research](#prompt-1-further-background-research)
+- [Prompt 2: Tech Deep Dive](#tech-deep-dive)
+  * [Types of Facial Recognition Technology](#types-of-facial-recognition-technology)
+  * [Facial Recognition Products](#facial-recognition-products)
+  * [Benchmark Datasets](#benchmark-datasets)
+- [Prompt 3: Exploring the Gender Shades Lit Review](#prompt-3-exploring-the-gender-shades-lit-review)
+  * [Work They Build On](#work-they-build-on)
+  * [Work They Critique](#work-they-critique)
+  * [Other Topics](#other-topics)
+    * [Emotion Detection](#emotion-detection)
+    * [Autism Spectrum Work](#autism-spectrum-work)
+- [Prompt 4: NIST System Audits](#prompt-4-nist-system-audits)
+- [Prompt 5: Congressional Hearings and Federal Reports](#prompt-5-congressional-hearings-and-federal-reports)
+  * [Senate Subcommittee on Privacy, Technology, and the Law (July 2012)](#senate-subcommittee-on-privacy-technology-and-the-law-july-2012)
+  * [Federal Bureau of Investigation Privacy Impact Assessment (May 2015)](#federal-bureau-of-investigation-privacy-impact-assessment-may-2015)
+  * [Updated FBI Privacy Impact Assessment (July 2018)](#updated-fbi-privacy-impact-assessment-july-2018)
+  * [United States Government Accountability Office Report (May 2016)](#united-states-government-accountability-office-report-may-2016)
+  * [US. GAO-19-579T Report (June 2019)](#us-gao-19-579t-report-june-2019)
+  * [ Committee on Homeland Security "About Face" Hearing (July 2019)](#committee-on-homeland-security-about-face-hearing-july-2019)
+- [Prompt 6: Lawsuits](#prompt-6-lawsuits)
+  * [Lynch v. Florida](#lynch-v-florida)
+  * [Webster v. Hennepin County](#webster-v-hennepin-county)
+  * [Williams v. Detroit Police Department](#williams-v-detroit-police-department)
+  * [All the Clearview AI Lawsuits](#all-the-clearview-ai-lawsuits)
+    * [Vermont Attorney General (March 2020)](#vermont-attorney-general-march-2020)
+    * [ACLU v. Clearview AI (May 2020)](#aclu-v-clearview-ai-may-2020)
+    * [Mutnick v. Clearview AI Class Action (August 2020)](#mutnick-v-clearview-ai-class-action-august-2020)
+    * [Mijente and NorCal Resist Immigrants Rights Groups (March 2021)](#mijente-and-norcal-resist-immigrants-rights-groups-march-2021)
+- [Prompt 7: Hands-On Work With Face Detection](#prompt-7-hands-on-work-with-face-detection)
+- [Lab Notebook Components](#lab-notebook-components) 
+
 
 # Overview
 
@@ -18,47 +54,23 @@ The Gender Shades article mentions a few types or big categories for facial reco
 
 Select one of these categories or specific tech programs and see what you’re able to find about how the technology was developed, how it works, and where it’s used.
 
-
 ## Types of Facial Recognition Technology
 
-Computer vision
-- [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
-
-Face detection
-- [Wikipedia](https://en.wikipedia.org/wiki/Face_detection)
-- [Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition)
-
-Face recognition/identification
-- [Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition)
-
-Emotion recognition
-- [Wikipedia page for Affectiva](https://en.wikipedia.org/wiki/Affectiva)
+- Computer vision ([Wikipedia](https://en.wikipedia.org/wiki/Computer_vision))
+- Face detection ([Wikipedia](https://en.wikipedia.org/wiki/Face_detection), [Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition))
+- Face recognition/identification ([Electronic Frontier Foundation](https://www.eff.org/pages/face-recognition))
+- Emotion recognition ([Wikipedia page for Affectiva](https://en.wikipedia.org/wiki/Affectiva))
 
 Or another term/concept mentioned in the Gender Shades article.
 
 ## Facial Recognition Products
 
-Rekognition (Amazon)
-- [Amazon](https://aws.amazon.com/rekognition/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Rekognition)
-
-Microsoft Azure Face 
-- [Microsoft](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
-- ["What is the Azure Face service?", Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview)
-
-IBM Watson 
-- [IBM](https://www.ibm.com/dk-en/cloud/watson-visual-recognition)
-
-Clearview AI
-- [Clearview AI](https://clearview.ai/)
-
-Face++
-- [Face++](https://www.faceplusplus.com/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Megvii)
-
-Affectiva
-- [Affectiva](https://www.affectiva.com/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Affectiva)
+- Amazon's Rekognition ([Amazon](https://aws.amazon.com/rekognition/), [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Rekognition))
+- Microsoft Azure Face ([Microsoft](https://azure.microsoft.com/en-us/services/cognitive-services/face/), ["What is the Azure Face service?", Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview))
+- IBM Watson ([IBM](https://www.ibm.com/dk-en/cloud/watson-visual-recognition))
+- Clearview AI ([Clearview AI](https://clearview.ai/))
+- Face++ ([Face++](https://www.faceplusplus.com/), [Wikipedia](https://en.wikipedia.org/wiki/Megvii))
+- Affectiva ([Affectiva](https://www.affectiva.com/), [Wikipedia](https://en.wikipedia.org/wiki/Affectiva))
 
 Or another product/company mentioned in the Gender Shades article.
 
@@ -67,9 +79,9 @@ Or another product/company mentioned in the Gender Shades article.
 - [MegaFace](http://megaface.cs.washington.edu/)
 - [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 - [IJB (A,B,C)](https://www.nist.gov/programs-projects/face-challenges)
-- [Adience[(https://talhassner.github.io/home/projects/Adience/Adience-data.html)
+- [Adience](https://talhassner.github.io/home/projects/Adience/Adience-data.html)
 
-# Prompt 2: Exploring the Gender Shades Lit Review
+# Prompt 3: Exploring the Gender Shades Lit Review
 
 The Gender Shades authors reference a wide range of prior work that relates to their study.
 
@@ -237,7 +249,7 @@ Additional resources for a few specific cases.
 Clearview AI is facing a number of lawsuits related to its facial recognition technology and partnerships with law enforcement.
 
 For more background on Clearview AI:
-- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, ["Kashmir Hill, "Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations"](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) *BuzzFeed News* (6 April 2021).
+- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, ["Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations"](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) *BuzzFeed News* (6 April 2021).
 - New York Times reporter Kashmir Hill has been reporting on Clearview AI and facial recognition tech for over a year. [Link to an archive of her work in the Times](https://www.nytimes.com/by/kashmir-hill).
 
 A few specific lawsuits.
