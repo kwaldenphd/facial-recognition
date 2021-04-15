@@ -42,7 +42,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 The lab procedure document includes 7 different prompt options. Folks can go in-depth with one prompt or explore a couple of prompts. 
 
-As a starting place, the Electronic Frontier Foundation has [a useful primer](ttps://www.eff.org/pages/face-recognition) for how facial recognition technologies work.
+As a starting place, the Electronic Frontier Foundation has [a useful primer](https://www.eff.org/pages/face-recognition) for how facial recognition technologies work.
 
 # Prompt 1: Further Background Research
 
