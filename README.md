@@ -188,7 +188,14 @@ There have been a number of federal reports and hearings on facial recognition t
 Select one or two of these reports or hearings and explore the linked material.
 
 Questions to consider:
-
+- What are you able to learn about the background or context for this hearing or report?
+- What are some of the specific concerns articulated in the report or hearing testimony?
+  * How did the report come to exist, or who commissioned it?
+  * Who all was involved in authoring the report? Or who was called to testify as part of the committee hearing?
+- Where and how do you see race and surveillance at work?
+- What were some of the recommendations or conclusions for the report/hearing?
+- Did anything happen or change because of this hearing/report?
+- Other thoughts/questions/comments
 
 ##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)
 
@@ -240,8 +247,13 @@ CNET's Alfred Ng has a great overview of some of the legal challenges being post
 Select one or two of these lawsuits and explore the provided resources.
 
 Questions to consider:
-
-
+- What are you able to learn about the background or context for the case?
+- What are some of the specific concerns articulated in the legal documents (where available)?
+  * Is there precedent being cited?
+  * Are there Constitutional amendments or other legal foundations for the lawsuit?
+- Where and how do we see race and surveillance at work?
+- What are you able to tell about the status of the case?
+- Other thoughts/questions/comments
 
 Additional resources for a few specific cases.
 
@@ -310,14 +322,23 @@ Background:
 
 # Prompt 7: Hands-On Work With Face Detection
 
-
-
+Work through one of the linked Python face detection tutorials.
 - Kristijan Ivancic, ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python*
 - Shantnu Tiwari, ["Face Recognition With Python"](https://realpython.com/face-recognition-with-python/)
 - Adrian Rosebrock, ["Face recognition with OpenCV, Python, and deep learning"](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) *PyImageSearch* (18 June 2018)
 - Marcelo Rovai, ["Real-Time Face Recognition: An End-To-End Project"](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348) *Towards Data Science* (12 March 2018)
 - Parul Pandey, ["Face Detection With Python using OpenCV"](https://www.datacamp.com/community/tutorials/face-detection-python-opencv) *DataCamp* (20 December 2018)
 
+Reflection questions:
+- What challenges did you face, and how did you solve them?
+- What did you learn about facial recognition/face detection through the tutorial you looked at?
+- How are you thinking about facial recognition/face detection differently after working through a tutorial?
+- Other comments/questions/observations
+
+You're welcome (but not required) to include code + screenshots as part of that narrative.
+
 # Lab Notebook Components
 
-fka fjas fjdasf
+Each prompt has some reflection questions to consider as a starting place. 
+
+We'll combine the lab notebook and reflection for next week, so your reflection can combine or synthesize the work that happened in the lab as well as readings/class meetings.
