@@ -40,19 +40,45 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 # Overview
 
-EFF overview https://www.eff.org/pages/face-recognition
+The lab procedure document includes 7 different prompt options. Folks can go in-depth with one prompt or explore a couple of prompts. 
+
+As a starting place, the Electronic Frontier Foundation has [a useful primer](ttps://www.eff.org/pages/face-recognition) for how facial recognition technologies work.
 
 # Prompt 1: Further Background Research
 
-Georgetown Center for Privacy and Technology https://www.perpetuallineup.org/
+In 2016, Georgetown University Law School's Center on Privacy and Technology researchers Claire Garvie, Alvaro Bedoya, and Jonathan Frankle published ground-breaking research on law enforcement use of facial recognition technologies. 
 
+["The Perpetual Lineup: Unregulated Police Face Recognition in America"](https://www.perpetuallineup.org/) emphasizes the number of open questions around law enforcement use of facial recognition technology.
 
+<blockquote>"We know very little about these systems. We don’t know how they impact privacy and civil liberties. We don’t know how they address accuracy problems. And we don’t know how any of these systems—local, state, or federal—affect racial and ethnic minorities.
+
+"This report closes these gaps. The result of a year-long investigation and over 100 records requests to police departments around the country, it is the most comprehensive survey to date of law enforcement face recognition and the risks that it poses to privacy, civil liberties, and civil rights. Combining FBI data with new information we obtained about state and local systems, we find that law enforcement face recognition affects over 117 million American adults. It is also unregulated. A few agencies have instituted meaningful protections to prevent the misuse of the technology. In many more cases, it is out of control."</blockquote>
+
+Spend some time looking through the report. Start with the Executive Summary, but dig into the report's analysis and recommendations sections.
+
+Questions to consider:
+- What do the Gender Shades authors say about this research? 
+- What stands out from reading the executive summary?
+- What questions, topics, or issues were the authors looking at? 
+- What research methods or approaches did the authors use?
+  * Particularly, how did the authors go about gathering information for their analysis?
+- What conclusions do the authors draw from their analysis?
+- Other questions/comments/etc
 
 # Prompt 2: Tech Deep Dive
 
 The Gender Shades article mentions a few types or big categories for facial recognition (face detection, classification, emotion detection, etc). Both of our readings for this week mention a number of specific systems.
 
-Select one of these categories or specific tech programs and see what you’re able to find about how the technology was developed, how it works, and where it’s used.
+Select one of these categories or specific tech programs.
+
+Questions to consider:
+- How (and why) was this technology developed?
+- Who all was involved, or where did it originate?
+- What can you tell about how the technology works?
+  * In the case of technology products, what can you tell about how the facial recognition system was built or trained?
+  * In the case of benchmark datasets, what can you tell about how the images where gathered (and the level of transparency/informed consent involved)?
+- Where is this technology used?
+- Other observations/comments/questions
 
 ## Types of Facial Recognition Technology
 
@@ -97,7 +123,7 @@ Questions to consider:
 
 ## Work They Build On
 
-- Citron, Danielle Keats and Pasquale, Frank A., The Scored Society: Due Process for Automated Predictions (2014). Washington Law Review, Vol. 89, 2014, p. 1-, U of Maryland Legal Studies Research Paper No. 2014-8, Available at SSRN: https://ssrn.com/abstract=2376209 
+- Citron, Danielle Keats and Pasquale, Frank A., The Scored Society: Due Process for Automated Predictions (2014). Washington Law Review, Vol. 89, 2014, p. 1-, U of Maryland Legal Studies Research Paper No. 2014-8, Available at SSRN: https://ssrn.com/abstract=2376209
 - Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). Man is to computer programmer as woman is to homemaker? debiasing word embeddings. In Advances in neural information processing systems (pp. 4349-4357). URL: https://arxiv.org/abs/1607.06520
 - Caliskan, Aylin, Joanna Bryson, and Arvind Narayanan. “Semantics Derived Automatically from Language Corpora Contain Human-Like Biases.” Science 356, no. 6334 (2017): 183–86. https://doi.org/10.1126/science.aal4230. [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_proquest1887393228)
 - Kilbertus, Niki & Rojas-Carulla, Mateo & Parascandolo, Giambattista & Hardt, Moritz & Janzing, Dominik & Schölkopf, Bernhard. (2017). Avoiding Discrimination through Causal Reasoning. URL: https://arxiv.org/abs/1706.02744
@@ -157,6 +183,13 @@ Questions to consider:
 
 # Prompt 5: Congressional Hearings and Federal Reports
 
+There have been a number of federal reports and hearings on facial recognition technologies, in relation to questions of privacy and civil liberties.
+
+Select one or two of these reports or hearings and explore the linked material.
+
+Questions to consider:
+
+
 ##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)
 
 In July 2012, The Senate Judiciary Committee Subcomittee on Privacy, Technology and the Law heled a hearing "What Facial Recognition Technology Means for Privacy and Civil Liberties." The hearing included testimony from Federal Bureau of Investigation, Federal Trade Commission, Facebook, MorphoTrust USA, Carnegie Mellon University, National Sheriffs' Association, and Duke University representatives.
@@ -203,6 +236,12 @@ Following the publication of NISTIR 8280 (see Prompt #3), Rep. Bennie G. Thompso
 
 CNET's Alfred Ng has a great overview of some of the legal challenges being posted to facial recognition technologies.
 - Alfred Ng, ["Facial recognition's fate could be decided in 2021"](https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021) *CNET* (11 December 2020)
+
+Select one or two of these lawsuits and explore the provided resources.
+
+Questions to consider:
+
+
 
 Additional resources for a few specific cases.
 
@@ -270,6 +309,8 @@ Background:
 - [Legal filing](https://justfutureslaw.org/wp-content/uploads/2021/03/2021-03-09-Complaint-vs-Clearview.pdf)
 
 # Prompt 7: Hands-On Work With Face Detection
+
+
 
 - Kristijan Ivancic, ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python*
 - Shantnu Tiwari, ["Face Recognition With Python"](https://realpython.com/face-recognition-with-python/)
