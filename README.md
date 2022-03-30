@@ -14,6 +14,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 - [Prompt 5: Congressional Hearings and Federal Reports](#prompt-5-congressional-hearings-and-federal-reports)
 - [Prompt 6: Lawsuits](#prompt-6-lawsuits)
 - [Prompt 7: Hands-On Work With Face Detection](#prompt-7-hands-on-work-with-face-detection)
+- [Prompt 8: Choose Your Own Adventure](#prompt-8-choose-your-own-adventure)
 - [Lab Notebook Components](#lab-notebook-components) 
 
 
@@ -121,6 +122,10 @@ Reflection questions:
 - Other comments/questions/observations
 
 You're welcome (but not required) to include code + screenshots as part of that narrative.
+
+# Prompt 8: Choose Your Own Adventure
+
+If reading through the prompts sparks ideas for something you could do in this lab that doesn't fall neatly into a prompt, contact the instructor to discuss possible next steps.
 
 # Lab Notebook Components
 
