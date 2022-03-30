@@ -1,7 +1,16 @@
-# Prompt 2: Tech Deep Dive (Facial Recognition and Gender Shades Lab
+# Prompt 2: Tech Deep Dive (Race and Surveillance Technology in Law Enforcement)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+# Table of Contents
+
+- [Overview](#overview)
+- [Categories and Resources](#categories-and-resources)
+  * [Types of Facial Recognition Technology](#types-of-facial-recognition-technology)
+  * [Facial Recognition Products](#facial-recognition-products)
+  * [Benchmark Datasets](#benchmark-datasets)
+- [Next Steps](#next-steps)
 
 # Overview
 
@@ -18,6 +27,8 @@ Questions to consider:
 - Where is this technology used?
   * Or, where/how is this image dataset used?
 - Other observations/comments/questions
+
+# Categories and Resources
 
 ## Types of Facial Recognition Technology
 
