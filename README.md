@@ -45,6 +45,8 @@ Questions to consider:
 - What research methods or approaches did the authors use?
   * Particularly, how did the authors go about gathering information for their analysis?
 - What conclusions do the authors draw from their analysis?
+- Where and how do you see race and surveillance at work?
+  * Connections with class content or discussions
 - Other questions/comments/etc
 
 # Prompt 2: Tech Deep Dive
@@ -83,6 +85,8 @@ Questions to consider:
 - What are some of the authors’ main arguments or findings?
 - What research methods or approaches did the authors use? What steps did they take to answer their original research questions?
 - What conclusions do the authors draw from their analysis (of prior research, benchmark datasets, or commercial systems)?
+- Where and how do you see race and surveillance at work?
+  * Connections with class content or discussions
 - Other questions/comments/etc
 
 # Prompt 5: Congressional Hearings and Federal Reports
@@ -113,6 +117,7 @@ Reflection questions:
 - What challenges did you face, and how did you solve them?
 - What did you learn about facial recognition/face detection through the tutorial you looked at?
 - How are you thinking about facial recognition/face detection differently after working through a tutorial?
+  * Connections with class content or discussions
 - Other comments/questions/observations
 
 You're welcome (but not required) to include code + screenshots as part of that narrative.
