@@ -7,9 +7,9 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 - [Lab Notebook Template](#lab-notebook-template)
 - [Overview](#overview)
-- [Prompt 1: Further Background Research](#prompt-1-further-background-research)
+- [Prompt 1: The Perpetual Lineup Report](#prompt-1-the-perpetual-lineup-report)
 - [Prompt 2: Tech Deep Dive](#tech-deep-dive)
-- [Prompt 3: Exploring the Gender Shades Lit Review](#prompt-3-exploring-the-gender-shades-lit-review)
+- [Prompt 3: Exploring the Gender Shades Literature Review](#prompt-3-exploring-the-gender-shades-literature-review)
 - [Prompt 4: NIST System Audits](#prompt-4-nist-system-audits)
 - [Prompt 5: Congressional Hearings and Federal Reports](#prompt-5-congressional-hearings-and-federal-reports)
 - [Prompt 6: Lawsuits](#prompt-6-lawsuits)
@@ -27,7 +27,7 @@ The lab procedure document includes 7 different prompt options. Folks can go in-
 
 As a starting place, the Electronic Frontier Foundation has [a useful primer](https://www.eff.org/pages/face-recognition) for how facial recognition technologies work.
 
-# Prompt 1: Further Background Research
+# Prompt 1: The Perpetual Lineup Report
 
 In 2016, Georgetown University Law School's Center on Privacy and Technology researchers Claire Garvie, Alvaro Bedoya, and Jonathan Frankle published ground-breaking research on law enforcement use of facial recognition technologies. 
 
@@ -56,7 +56,7 @@ Our content for this week mentions different types of facial recognition technol
 
 [Click here](https://github.com/kwaldenphd/facial-recognition/blob/main/tech-deep-dive.md) for more details on this option.
 
-# Prompt 3: Exploring the Gender Shades Lit Review
+# Prompt 3: Exploring the Gender Shades Literature Review
 
 The Gender Shades authors reference a wide range of prior work that relates to their study. For this prompt, select one of these articles to read/explore further.
 
