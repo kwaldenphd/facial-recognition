@@ -5,8 +5,6 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 # Overview
 
-The Gender Shades project mentions a few types or big categories for facial recognition (face detection, classification, emotion detection, etc), and our readings for this week mention a number of specific systems.
-
 Our content for this week mentions different types of facial recognition technologies (face detection, classification, emotion detection, etc) as well as specific companies and products. Select a specific type of technology, company, or product, and do a deep dive using the question prompts below as a starting point.
 - Folks can also explore a benchmark image dataset used to train facial recognition models.
 
