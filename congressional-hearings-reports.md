@@ -1,9 +1,19 @@
-# Prompt #5: Congressional Hearings and Federal Reports (Facial Recognition and Gender Shades Lab)
+# Prompt #5: Congressional Hearings and Federal Reports (Race and Surveillance Technology in Law Enforcement)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
+
+- [Overview](#overview)
+- [Hearings and Reports](#hearings-and-reports)
+  * [Senate Subcommittee on Privacy, Technology, and the Law (July 2012)](#senate-subcommittee-on-privacy-technology-and-the-law-july-2012)
+  * [Federal Bureau of Investigation Privacy Impact Assessment (May 2015)](#federal-bureau-of-investigation-privacy-impact-assessment-may-2015)
+  * [Updated FBI Privacy Impact Assessment (July 2018)](#updated-fbi-privacy-impact-assessment-july-2018)
+  * [United States Government Accountability Office Report (May 2016)](#united-states-government-accountability-office-report-may-2016)
+  * [US. GAO-19-579T Report (June 2019)](#us-gao-19-579t-report-june-2019)
+  * [ Committee on Homeland Security "About Face" Hearing (July 2019)](#committee-on-homeland-security-about-face-hearing-july-2019)
+- [Next Steps](#next-steps)
 
 # Overview
 
@@ -17,9 +27,12 @@ Questions to consider:
   * How did the report come to exist, or who commissioned it?
   * Who all was involved in authoring the report? Or who was called to testify as part of the committee hearing?
 - Where and how do you see race and surveillance at work?
+  * Connections with class content or discussions
 - What were some of the recommendations or conclusions for the report/hearing?
 - Did anything happen or change because of this hearing/report?
 - Other thoughts/questions/comments
+
+# Hearings and Reports
 
 ##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)
 
