@@ -1,9 +1,21 @@
-# Prompt #6: Lawsuits (Facial Recognition and Gender Shades Lab)
+# Prompt #6: Lawsuits (Race and Surveillance Technology in Law Enforcement)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
+
+- [Overview](#overview)
+- [Lawsuits](#lawsuits)
+  * [Lynch v. Florida](#lynch-v-florida)
+  * [Webster v. Hennepin County](#webster-v-hennepin-county)
+  * [Williams v. Detroit Police Department](#williams-v-detroit-police-department)
+  * [All the Clearview AI Lawsuits](#all-the-clearview-ai-lawsuits)
+    * [Vermont Attorney General (March 2020)](#vermont-attorney-general-march-2020)
+    * [ACLU v. Clearview AI (May 2020)](#aclu-v-clearview-ai-may-2020)
+    * [Mutnick v. Clearview AI Class Action (August 2020)](#mutnick-v-clearview-ai-class-action-august-2020)
+    * [Mijente and NorCal Resist Immigrants Rights Groups (March 2021)](#mijente-and-norcal-resist-immigrants-rights-groups-march-2021)
+- [Next Steps](#next-steps)
 
 # Overview
 
@@ -21,7 +33,7 @@ Questions to consider:
 - What are you able to tell about the status of the case?
 - Other thoughts/questions/comments
 
-Additional resources for a few specific cases.
+# Lawsuits
 
 ## Lynch v. Florida
 
