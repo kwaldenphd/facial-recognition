@@ -110,6 +110,7 @@ For this prompt, select one or two of these lawsuits and explore the provided re
 Work through one of the linked Python face detection tutorials.
 - Kristijan Ivancic, ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python*
 - Shantnu Tiwari, ["Face Recognition With Python"](https://realpython.com/face-recognition-with-python/)
+- Shantnu Tiwari, ["Face Detection in Python Using a Webcam"](https://realpython.com/face-detection-in-python-using-a-webcam/), *Real Python*
 - Adrian Rosebrock, ["Face recognition with OpenCV, Python, and deep learning"](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) *PyImageSearch* (18 June 2018)
 - Marcelo Rovai, ["Real-Time Face Recognition: An End-To-End Project"](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348) *Towards Data Science* (12 March 2018)
 - Parul Pandey, ["Face Detection With Python using OpenCV"](https://www.datacamp.com/community/tutorials/face-detection-python-opencv) *DataCamp* (20 December 2018)
