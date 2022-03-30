@@ -50,7 +50,7 @@ Or another term/concept mentioned in this week's content
 - Face++ ([Face++](https://www.faceplusplus.com/), [Wikipedia](https://en.wikipedia.org/wiki/Megvii))
 - Affectiva ([Affectiva](https://www.affectiva.com/), [Wikipedia](https://en.wikipedia.org/wiki/Affectiva))
 
-Or another product/company mentioned in tis week's content.
+Or another product/company mentioned in this week's content.
 
 ## Benchmark Datasets
 
