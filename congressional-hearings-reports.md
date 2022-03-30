@@ -50,9 +50,7 @@ The report was made public via Freedom of Information/Privacy Act request.
 
 ## Updated FBI Privacy Impact Assessment (July 2018)
 
-The FBI released an update to the May 2015 report in July 2018.
-
-The report was made public via Freedom of Information/Privacy Act request.
+The FBI released an update to the May 2015 report in July 2018. The report was made public via Freedom of Information/Privacy Act request.
 
 - [Link to report](https://www.fbi.gov/file-repository/pia-face-phase-2-system.pdf/view)
 
@@ -74,7 +72,7 @@ In 2019, the House Committee on Homeland Security convened a hearing titled "Abo
 
 - [Link to hearing homepage (includes testimony transcripts and hearing video)](https://homeland.house.gov/activities/hearings/about-face-examining-the-department-of-homeland-securitys-use-of-facial-recognition-and-other-biometric-technologies)
 
-Following the publication of NISTIR 8280 (see Prompt #3), Rep. Bennie G. Thompson (D-MS), Chairman of the Committee on Homeland Security, [wrote a public letter](https://homeland.house.gov/news/correspondence/chairman-thompson-writes-dhs-on-shocking-facial-recognition-report) to then Acting Homeland Security Secretary Chad Wolf regarding the discrepancies between the NIST report and the testimony provided by DHS.  
+Following the publication of NISTIR 8280 ([see Prompt #4](https://github.com/kwaldenphd/facial-recognition#prompt-4-nist-system-audits)), Rep. Bennie G. Thompson (D-MS), Chairman of the Committee on Homeland Security, [wrote a public letter](https://homeland.house.gov/news/correspondence/chairman-thompson-writes-dhs-on-shocking-facial-recognition-report) to then Acting Homeland Security Secretary Chad Wolf regarding the discrepancies between the NIST report and the testimony provided by DHS.  
 
 # Next Steps
 
