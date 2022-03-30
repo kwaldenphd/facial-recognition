@@ -1,10 +1,18 @@
-# Prompt #3: Exploring the *Gender Shades* Literature Review (Facial Recognition and Gender Shades Lab)
+# Prompt #3: Exploring the *Gender Shades* Literature Review (Race and Surveillance Technology in Law Enforcement)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
 
+- [Overview](#overview)
+- [Citations](#citations)
+  * [Work They Build On](#work-they-build-on)
+  * [Work They Critique](#work-they-critique)
+  * [Other Topics](#other-topics)
+    * [Emotion Detection](#emotion-detection)
+    * [Autism Spectrum Work](#autism-spectrum-work)
+- [Next Steps](#next-steps)
 
 # Overview
 
@@ -18,7 +26,11 @@ Questions to consider:
 - What questions, topics, or issues were the authors looking out? 
 - What research methods or approaches did the authors use?
 - What conclusions do the authors draw from their analysis?
+- Where and how do you see race and surveillance at work?
+  * Connections with class content or discussions
 - Other questions/comments/etc
+
+# Citations
 
 ## Work They Build On
 
