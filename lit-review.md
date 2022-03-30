@@ -23,7 +23,7 @@ Select one of the articles to read/explore.
 Questions to consider:
 - What do the Gender Shades authors say about this work? 
 - What stands out from reading the abstract?
-- What questions, topics, or issues were the authors looking out? 
+- What questions, topics, or issues were the authors looking at? 
 - What research methods or approaches did the authors use?
 - What conclusions do the authors draw from their analysis?
 - Where and how do you see race and surveillance at work?
