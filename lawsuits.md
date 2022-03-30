@@ -48,7 +48,7 @@ Questions to consider:
 
 - David Chanen, ["Facial recognition technology comes out of the shadows"](https://www.startribune.com/facial-recognition-technology-comes-out-of-the-shadows/382954891/) *Minnesota Star Tribune* (14 June 2016)
 
-- Aaron Mackey, ["EFF To Minneosta Supreme Court: Sheriff Must Release Emails Documenting Biometric Technology Use"](https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric) *Electronic Frontier Foundation* (17 July 2017)
+- Aaron Mackey, ["EFF To Minnesota Supreme Court: Sheriff Must Release Emails Documenting Biometric Technology Use"](https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric) *Electronic Frontier Foundation* (17 July 2017)
 
 - Libor Jany, ["Police use of facial recognition technology soars in Minnesota"](https://www.eff.org/deeplinks/2017/07/eff-minnesota-supreme-court-sheriff-must-release-emails-documenting-biometric) *Minnesota Star Tribune* (4 December 2020)
 
