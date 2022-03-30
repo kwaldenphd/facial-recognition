@@ -126,6 +126,6 @@ You're welcome (but not required) to include code + screenshots as part of that 
 
 [Link to lab notebook template]() (Google Doc)
 
-Each prompt has some reflection questions to consider as a starting place. 
+The lab notebook consists of a narrative that documents and describes your experience working through this lab. Each prompt has some reflection questions to consider as a starting place. 
 
-We'll combine the lab notebook and reflection for next week, so your reflection can combine or synthesize the work that happened in the lab as well as readings/class meetings.
+If working collaboratively, the notebook should include comments from each member of the group. These can be combined in a single notebook or submitted individually along with work completed collaboratively.
