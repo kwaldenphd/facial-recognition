@@ -1,4 +1,4 @@
-# Prompt #6: Lawsuits (Race and Surveillance Technology in Law Enforcement)
+# Prompt #6: Lawsuits (Facial Recognition and Racialized Surveillance in Law Enforcement Lab)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -29,7 +29,8 @@ Questions to consider:
 - What are some of the specific concerns articulated in the legal documents (where available)?
   * Is there precedent being cited?
   * Are there Constitutional amendments or other legal foundations for the lawsuit?
-- Where and how do we see race and surveillance at work?
+- Where and how do we see race and surveillance at work?|
+  * Connections with class content or discussions
 - What are you able to tell about the status of the case?
 - Other thoughts/questions/comments
 
