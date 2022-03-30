@@ -19,7 +19,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 # Lab Notebook Template
 
-[Link to lab notebook template]() (Google Doc)
+[Link to lab notebook template](https://docs.google.com/document/d/1b4BLk91Q8T4MFPNf_3r7SS6yJSdylC0TEa-Ro_EY-28/copy) (Google Doc)
 
 # Overview
 
@@ -124,7 +124,7 @@ You're welcome (but not required) to include code + screenshots as part of that 
 
 # Lab Notebook Components
 
-[Link to lab notebook template]() (Google Doc)
+[Link to lab notebook template](https://docs.google.com/document/d/1b4BLk91Q8T4MFPNf_3r7SS6yJSdylC0TEa-Ro_EY-28/copy) (Google Doc)
 
 The lab notebook consists of a narrative that documents and describes your experience working through this lab. Each prompt has some reflection questions to consider as a starting place. 
 
