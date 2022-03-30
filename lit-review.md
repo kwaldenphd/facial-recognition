@@ -65,7 +65,7 @@ Questions to consider:
 ### Autism Spectrum Work
 
 - Leo, M, Del Coco, Carcagni, Distante, Bernava, Pioggia, and Palestra. “Automatic Emotion Recognition in Robot-Children Interaction for ASD Treatment.” In 2015 IEEE International Conference on Computer Vision Workshop (ICCVW), 2015:537–45. IEEE, 2015. https://doi.org/10.1109/ICCVW.2015.76. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_ieee_s7406425)
-- Palestra, Giuseppe, Giovanna Varni, Mohamed Chetouani, and Floriana Esposito. “A Multimodal and Multilevel System for Robotics Treatment of Autism in Children.” In Proceedings of the International Workshop on Social Learning and Multimodal Interaction for Designing Artificial Agents, 1–6. ACM, 2016. https://doi.org/10.1145/3005338.3005341. [Link to online access throug Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_acm3005341)     
+- Palestra, Giuseppe, Giovanna Varni, Mohamed Chetouani, and Floriana Esposito. “A Multimodal and Multilevel System for Robotics Treatment of Autism in Children.” In Proceedings of the International Workshop on Social Learning and Multimodal Interaction for Designing Artificial Agents, 1–6. ACM, 2016. https://doi.org/10.1145/3005338.3005341. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_acm3005341)     
 
 # Next Steps
 
