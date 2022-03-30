@@ -1,4 +1,4 @@
-# Prompt 2: Tech Deep Dive (Race and Surveillance Technology in Law Enforcement)
+# Prompt 2: Tech Deep Dive (Facial Recognition and Racialized Surveillance in Law Enforcement Lab)
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -26,6 +26,8 @@ Questions to consider:
   * In the case of benchmark datasets, what can you tell about how the images where gathered (and the level of transparency/informed consent involved)?
 - Where is this technology used?
   * Or, where/how is this image dataset used?
+- Where and how do you see race and surveillance at work?
+  * Connections with class content or discussions
 - Other observations/comments/questions
 
 # Categories and Resources
