@@ -23,7 +23,7 @@ Questions to consider:
 - Who all was involved, or where did it originate?
 - What can you tell about how the technology works?
   * In the case of technology products, what can you tell about how the facial recognition system was built or trained?
-  * In the case of benchmark datasets, what can you tell about how the images where gathered (and the level of transparency/informed consent involved)?
+  * In the case of benchmark datasets, what can you tell about how the images were gathered (and the level of transparency/informed consent involved)?
 - Where is this technology used?
   * Or, where/how is this image dataset used?
 - Where and how do you see race and surveillance at work?
