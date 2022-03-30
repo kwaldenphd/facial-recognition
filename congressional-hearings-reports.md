@@ -36,7 +36,7 @@ Questions to consider:
 
 ##  Senate Subcommittee on Privacy, Technology and the Law (July 2012)
 
-In July 2012, The Senate Judiciary Committee Subcomittee on Privacy, Technology and the Law heled a hearing "What Facial Recognition Technology Means for Privacy and Civil Liberties." The hearing included testimony from Federal Bureau of Investigation, Federal Trade Commission, Facebook, MorphoTrust USA, Carnegie Mellon University, National Sheriffs' Association, and Duke University representatives.
+In July 2012, The Senate Judiciary Committee Subcommittee on Privacy, Technology and the Law held a hearing "What Facial Recognition Technology Means for Privacy and Civil Liberties." The hearing included testimony from the Federal Bureau of Investigation, Federal Trade Commission, Facebook, MorphoTrust USA, Carnegie Mellon University, National Sheriffs' Association, and Duke University representatives.
 
 - [Link to hearing homepage (includes testimony transcripts and hearing video)](https://www.judiciary.senate.gov/meetings/what-facial-recognition-technology-means-for-privacy-and-civil-liberties)
 
