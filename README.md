@@ -1,42 +1,25 @@
-# Facial Recognition and Gender Shades Lab
+# Race and Surveillance Technology in Law Enforcement
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
 
+- [Lab Notebook Template](#lab-notebook-template)
 - [Overview](#overview)
 - [Prompt 1: Further Background Research](#prompt-1-further-background-research)
 - [Prompt 2: Tech Deep Dive](#tech-deep-dive)
-  * [Types of Facial Recognition Technology](#types-of-facial-recognition-technology)
-  * [Facial Recognition Products](#facial-recognition-products)
-  * [Benchmark Datasets](#benchmark-datasets)
 - [Prompt 3: Exploring the Gender Shades Lit Review](#prompt-3-exploring-the-gender-shades-lit-review)
-  * [Work They Build On](#work-they-build-on)
-  * [Work They Critique](#work-they-critique)
-  * [Other Topics](#other-topics)
-    * [Emotion Detection](#emotion-detection)
-    * [Autism Spectrum Work](#autism-spectrum-work)
 - [Prompt 4: NIST System Audits](#prompt-4-nist-system-audits)
 - [Prompt 5: Congressional Hearings and Federal Reports](#prompt-5-congressional-hearings-and-federal-reports)
-  * [Senate Subcommittee on Privacy, Technology, and the Law (July 2012)](#senate-subcommittee-on-privacy-technology-and-the-law-july-2012)
-  * [Federal Bureau of Investigation Privacy Impact Assessment (May 2015)](#federal-bureau-of-investigation-privacy-impact-assessment-may-2015)
-  * [Updated FBI Privacy Impact Assessment (July 2018)](#updated-fbi-privacy-impact-assessment-july-2018)
-  * [United States Government Accountability Office Report (May 2016)](#united-states-government-accountability-office-report-may-2016)
-  * [US. GAO-19-579T Report (June 2019)](#us-gao-19-579t-report-june-2019)
-  * [ Committee on Homeland Security "About Face" Hearing (July 2019)](#committee-on-homeland-security-about-face-hearing-july-2019)
 - [Prompt 6: Lawsuits](#prompt-6-lawsuits)
-  * [Lynch v. Florida](#lynch-v-florida)
-  * [Webster v. Hennepin County](#webster-v-hennepin-county)
-  * [Williams v. Detroit Police Department](#williams-v-detroit-police-department)
-  * [All the Clearview AI Lawsuits](#all-the-clearview-ai-lawsuits)
-    * [Vermont Attorney General (March 2020)](#vermont-attorney-general-march-2020)
-    * [ACLU v. Clearview AI (May 2020)](#aclu-v-clearview-ai-may-2020)
-    * [Mutnick v. Clearview AI Class Action (August 2020)](#mutnick-v-clearview-ai-class-action-august-2020)
-    * [Mijente and NorCal Resist Immigrants Rights Groups (March 2021)](#mijente-and-norcal-resist-immigrants-rights-groups-march-2021)
 - [Prompt 7: Hands-On Work With Face Detection](#prompt-7-hands-on-work-with-face-detection)
 - [Lab Notebook Components](#lab-notebook-components) 
 
+
+# Lab Notebook Template
+
+[Link to lab notebook template]() (Google Doc)
 
 # Overview
 
@@ -135,6 +118,8 @@ Reflection questions:
 You're welcome (but not required) to include code + screenshots as part of that narrative.
 
 # Lab Notebook Components
+
+[Link to lab notebook template]() (Google Doc)
 
 Each prompt has some reflection questions to consider as a starting place. 
 
