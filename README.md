@@ -107,22 +107,19 @@ For this prompt, select one or two of these lawsuits and explore the provided re
 
 # Prompt 7: Hands-On Work With Face Detection
 
-Work through one of the linked Python face detection tutorials.
-- Kristijan Ivancic, ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python*
-- Shantnu Tiwari, ["Face Recognition With Python"](https://realpython.com/face-recognition-with-python/)
-- Shantnu Tiwari, ["Face Detection in Python Using a Webcam"](https://realpython.com/face-detection-in-python-using-a-webcam/), *Real Python*
-- Adrian Rosebrock, ["Face recognition with OpenCV, Python, and deep learning"](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) *PyImageSearch* (18 June 2018)
-- Marcelo Rovai, ["Real-Time Face Recognition: An End-To-End Project"](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348) *Towards Data Science* (12 March 2018)
-- Parul Pandey, ["Face Detection With Python using OpenCV"](https://www.datacamp.com/community/tutorials/face-detection-python-opencv) *DataCamp* (20 December 2018)
+[Link to Jupyter Notebook](https://colab.research.google.com/drive/1fR4YhONz88Y6thP1vhg4ayzAIlzXmbTy?usp=sharing) that walks through Kristijan Ivancic's ["Traditional Face Detection With Python"](https://realpython.com/traditional-face-detection-python/) *Real Python* tutorial.
+
+The "Additional Resources" section at the end of the Jupyter Notebook includes links to other tutorials for folks who want to explore alternate workflows.
 
 Reflection questions:
 - What challenges did you face, and how did you solve them?
 - What did you learn about facial recognition/face detection through the tutorial you looked at?
 - How are you thinking about facial recognition/face detection differently after working through a tutorial?
+  * Where and how do we see race and surveillance at work
   * Connections with class content or discussions
 - Other comments/questions/observations
 
-You're welcome (but not required) to include code + screenshots as part of that narrative.
+You're welcome (but not required) to include code and/or screenshots as part of that narrative.
 
 # Prompt 8: Choose Your Own Adventure
 
